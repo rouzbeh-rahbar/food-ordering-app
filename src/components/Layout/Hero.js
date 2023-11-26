@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Right from "@/components/Icons/Right";
+import Right from "@/components/icons/Right";
 
 export default function Hero() {
   return (
